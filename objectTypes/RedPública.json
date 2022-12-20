@@ -1,0 +1,57 @@
+{
+	"name": "RedPública",
+	"plugin-id": "Sprite",
+	"sid": 259592660927496,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 512,
+						"height": 512,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 289140,
+						"collisionPoly": {
+							"points": [
+								0.19921875,
+								0.19921875,
+								0.5,
+								0,
+								0.798828125,
+								0.19921875,
+								0.775390625,
+								0.5,
+								0.9296875,
+								0.9296875,
+								0.5,
+								0.998046875,
+								0.068359375,
+								0.9296875,
+								0.22265625,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 613778154070360,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"name": "Phising",
+	"plugin-id": "Sprite",
+	"sid": 462281527981811,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 512,
+						"height": 512,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3927299,
+						"collisionPoly": {
+							"points": [
+								0.302734375,
+								0.302734375,
+								0.5,
+								0.11328125,
+								0.6953125,
+								0.302734375,
+								0.921875,
+								0.5,
+								0.953125,
+								0.953125,
+								0.5,
+								0.966796875,
+								0.044921875,
+								0.953125,
+								0.076171875,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 764395401631230,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

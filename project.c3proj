@@ -18,7 +18,14 @@
 	"uniqueId": "xsncy2bkxyj",
 	"objectTypes": {
 		"items": [
-			"Sprite"
+			"Laberinto",
+			"RedPública",
+			"Antivirus",
+			"Contraseña",
+			"Virus",
+			"VPN",
+			"Actualizacion",
+			"Phising"
 		],
 		"subfolders": []
 	},

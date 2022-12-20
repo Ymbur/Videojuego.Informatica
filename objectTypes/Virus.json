@@ -1,0 +1,57 @@
+{
+	"name": "Virus",
+	"plugin-id": "Sprite",
+	"sid": 421547091309054,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 512,
+						"height": 512,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5043740,
+						"collisionPoly": {
+							"points": [
+								0.159375,
+								0.20901639344262296,
+								0.5,
+								0.12704918032786885,
+								0.83125,
+								0.2192622950819672,
+								0.83125,
+								0.5,
+								0.8109375,
+								0.7520491803278688,
+								0.5,
+								0.875,
+								0.1859375,
+								0.7540983606557377,
+								0.159375,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 531303542666092,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

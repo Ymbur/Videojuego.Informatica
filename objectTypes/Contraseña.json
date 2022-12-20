@@ -1,7 +1,7 @@
 {
-	"name": "Sprite",
+	"name": "Contraseña",
 	"plugin-id": "Sprite",
-	"sid": 234683988420988,
+	"sid": 609382526540699,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,19 +11,39 @@
 			{
 				"frames": [
 					{
-						"width": 250,
-						"height": 250,
+						"width": 512,
+						"height": 512,
 						"originX": 0.5,
 						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 1480861,
+						"imageSpriteId": 4517260,
+						"collisionPoly": {
+							"points": [
+								0.146484375,
+								0.146484375,
+								0.5,
+								0,
+								0.8515625,
+								0.146484375,
+								0.998046875,
+								0.5,
+								0.8515625,
+								0.8515625,
+								0.5,
+								0.998046875,
+								0.146484375,
+								0.8515625,
+								0,
+								0.5
+							]
+						},
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 862743295845723,
+				"sid": 658585991104150,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

@@ -1,0 +1,57 @@
+{
+	"name": "Antivirus",
+	"plugin-id": "Sprite",
+	"sid": 607926249528186,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1024,
+						"height": 1024,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 865790,
+						"collisionPoly": {
+							"points": [
+								0.125,
+								0.125,
+								0.5,
+								0.0830078125,
+								0.8740234375,
+								0.125,
+								0.8740234375,
+								0.5,
+								0.7763671875,
+								0.7763671875,
+								0.5,
+								0.95703125,
+								0.22265625,
+								0.7763671875,
+								0.125,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 797478025118774,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
