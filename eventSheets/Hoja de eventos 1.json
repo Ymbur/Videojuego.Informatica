@@ -13,7 +13,16 @@
 					}
 				}
 			],
-			"actions": [],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 449124875503723,
+					"parameters": {
+						"layout": "Antivirus"
+					}
+				}
+			],
 			"sid": 140442339800734
 		}
 	],

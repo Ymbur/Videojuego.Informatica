@@ -81,7 +81,8 @@
 			"Teclado",
 			"ColisionDetector",
 			"FondoEnMosaico",
-			"FondoEnMosaico2"
+			"FondoEnMosaico2",
+			"Texto"
 		],
 		"subfolders": []
 	},
@@ -93,13 +94,15 @@
 	},
 	"layouts": {
 		"items": [
-			"Escena 1"
+			"Escena 1",
+			"Antivirus"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Hoja de eventos 1"
+			"Hoja de eventos 1",
+			"Hoja de eventos 2"
 		],
 		"subfolders": []
 	},
