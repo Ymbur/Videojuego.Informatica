@@ -3,8 +3,48 @@
 	"plugin-id": "Sprite",
 	"sid": 505064272050578,
 	"isGlobal": false,
-	"instanceVariables": [],
-	"behaviorTypes": [],
+	"instanceVariables": [
+		{
+			"name": "Dirección",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 960526922163448
+		},
+		{
+			"name": "DuracionMovimiento",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 209592280985457
+		},
+		{
+			"name": "TargetX",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 743513663006508
+		},
+		{
+			"name": "TargetY",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 296442811943425
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "scrollto",
+			"name": "DesplazarHasta",
+			"sid": 821642861567716
+		},
+		{
+			"behaviorId": "EightDir",
+			"name": "8Direcciones",
+			"sid": 659054621313559
+		}
+	],
 	"effectTypes": [],
 	"animations": {
 		"items": [
