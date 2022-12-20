@@ -13,6 +13,14 @@
 			"author": "Scirra",
 			"version": "r317.2",
 			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Texto",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
 		}
 	],
 	"uniqueId": "xsncy2bkxyj",
@@ -25,7 +33,11 @@
 			"Virus",
 			"VPN",
 			"Actualizacion",
-			"Phising"
+			"Phising",
+			"PC",
+			"Letrero1",
+			"Conexión",
+			"PunteroJugador"
 		],
 		"subfolders": []
 	},

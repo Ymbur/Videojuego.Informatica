@@ -1,0 +1,57 @@
+{
+	"name": "PunteroJugador",
+	"plugin-id": "Sprite",
+	"sid": 505064272050578,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 840,
+						"height": 1275,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3474451,
+						"collisionPoly": {
+							"points": [
+								0.034523809523809526,
+								0.022745098039215685,
+								0.5,
+								0.2690196078431373,
+								0.5142857142857142,
+								0.3192156862745098,
+								0.8119047619047619,
+								0.5,
+								0.8119047619047619,
+								0.876078431372549,
+								0.5,
+								0.9254901960784314,
+								0.175,
+								0.883921568627451,
+								0.03333333333333333,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 725052031269409,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
