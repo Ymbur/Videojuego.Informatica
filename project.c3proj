@@ -126,7 +126,8 @@
 			"Antivirus",
 			"Actualización",
 			"Contraseña",
-			"VPN"
+			"VPN",
+			"Phising"
 		],
 		"subfolders": []
 	},
@@ -137,7 +138,8 @@
 			"Eventos inicio",
 			"Eventos actualización",
 			"Eventos contraseña",
-			"Eventos VPN"
+			"Eventos VPN",
+			"Eventos Phising"
 		],
 		"subfolders": []
 	},

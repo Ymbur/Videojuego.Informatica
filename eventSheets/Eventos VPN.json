@@ -1,5 +1,32 @@
 {
 	"name": "Eventos VPN",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 124844861203364,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Cerrar"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 263747257748808,
+					"parameters": {
+						"layout": "Laberinto"
+					}
+				}
+			],
+			"sid": 903108250376742
+		}
+	],
 	"sid": 206549460786026
 }

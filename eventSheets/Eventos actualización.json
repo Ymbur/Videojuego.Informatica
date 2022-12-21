@@ -1,5 +1,32 @@
 {
 	"name": "Eventos actualización",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 571714585604436,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Cerrar"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 572911351920759,
+					"parameters": {
+						"layout": "Laberinto"
+					}
+				}
+			],
+			"sid": 159803820100251
+		}
+	],
 	"sid": 916789524388240
 }

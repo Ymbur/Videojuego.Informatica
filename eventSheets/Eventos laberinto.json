@@ -121,6 +121,30 @@
 				}
 			],
 			"sid": 610869288310496
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "PunteroJugador",
+					"sid": 589844665947885,
+					"parameters": {
+						"object": "Phising"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 973035918197834,
+					"parameters": {
+						"layout": "Phising"
+					}
+				}
+			],
+			"sid": 942609875008920
 		}
 	],
 	"sid": 494268651478390
