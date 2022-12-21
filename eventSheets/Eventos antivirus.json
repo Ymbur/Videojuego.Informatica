@@ -1,5 +1,32 @@
 {
 	"name": "Eventos antivirus",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 483422530226227,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Cerrar"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 578851956267423,
+					"parameters": {
+						"layout": "Laberinto"
+					}
+				}
+			],
+			"sid": 501520438319147
+		}
+	],
 	"sid": 973525825208612
 }

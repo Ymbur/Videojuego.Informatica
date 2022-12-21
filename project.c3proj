@@ -47,6 +47,22 @@
 			"bundled": false
 		},
 		{
+			"type": "plugin",
+			"id": "Audio",
+			"name": "Audio",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Mouse",
+			"name": "Mouse",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
 			"type": "behavior",
 			"id": "scrollto",
 			"name": "Desplazar hasta",
@@ -91,7 +107,9 @@
 			"DesenfoqueDeFondo",
 			"Titulos",
 			"Cerrar",
-			"Botón"
+			"Botón",
+			"Audio",
+			"Mouse"
 		],
 		"subfolders": []
 	},
@@ -129,7 +147,72 @@
 			"subfolders": []
 		},
 		"sound": {
-			"items": [],
+			"items": [
+				{
+					"name": "Bonus.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 345662925017416,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "Encendido conexion.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 442872221823072,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "Musica juego.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 190892948619260,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "Pasos raton buenos.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 404371917882876,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "Pasos raton.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 526594133424779,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "Phising.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 560117263826998,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "Sonido artefacto.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 979268115537221,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "Teclado.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 206760200888786,
+					"file-info": {
+						"purpose": "none"
+					}
+				}
+			],
 			"subfolders": []
 		},
 		"music": {
