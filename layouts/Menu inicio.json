@@ -75,7 +75,7 @@
 				{
 					"type": "Titulos",
 					"properties": {
-						"text": "VIAJE HACIA LA RED ",
+						"text": "VIAJE HACIA EL ",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 40,
@@ -98,9 +98,9 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 150.21433173795066,
-						"y": 44.79833980362545,
-						"width": 572.6130728775356,
+						"x": 18,
+						"y": 25,
+						"width": 413.17438016528854,
 						"height": 65,
 						"originX": 0,
 						"originY": 0,
@@ -115,26 +115,35 @@
 					}
 				},
 				{
-					"type": "Botón",
+					"type": "Titulos",
 					"properties": {
-						"type": "button",
-						"text": "CONECTAR",
-						"tooltip": "",
+						"text": "CENTRO DE LA RED",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 40,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							0.01568627450980392,
+							1,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
 						"initially-visible": true,
-						"enabled": true,
-						"auto-font-size": true,
-						"checked": false,
-						"id": "",
-						"class": ""
+						"origin": "top-left"
 					},
 					"uid": 221,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 337.2917020526887,
-						"y": 168.0140454688526,
-						"width": 114.8249436513899,
-						"height": 42.031555221637916,
+						"x": 338,
+						"y": 86,
+						"width": 474.17438016528854,
+						"height": 65,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -142,7 +151,9 @@
 							1,
 							1,
 							1
-						]
+						],
+						"angle": 0,
+						"zElevation": 0
 					}
 				}
 			],
