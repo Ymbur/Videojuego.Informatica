@@ -1,0 +1,32 @@
+{
+	"name": "Eventos contraseña",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 809677096446332,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Cerrar"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 936263554767565,
+					"parameters": {
+						"layout": "Laberinto"
+					}
+				}
+			],
+			"sid": 865954540933962
+		}
+	],
+	"sid": 871756281533025
+}
