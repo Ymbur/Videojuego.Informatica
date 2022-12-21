@@ -1,0 +1,102 @@
+{
+	"name": "Eventos laberinto",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "PunteroJugador",
+					"sid": 168134129608882,
+					"parameters": {
+						"object": "Antivirus"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 449124875503723,
+					"parameters": {
+						"layout": "Antivirus"
+					}
+				}
+			],
+			"sid": 140442339800734
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "PunteroJugador",
+					"sid": 114148147406124,
+					"parameters": {
+						"object": "Actualizacion"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 726017353063672,
+					"parameters": {
+						"layout": "Actualización"
+					}
+				}
+			],
+			"sid": 721982833018086
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "PunteroJugador",
+					"sid": 135577087225654,
+					"parameters": {
+						"object": "Contraseña"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 892656290532792,
+					"parameters": {
+						"layout": "Contraseña"
+					}
+				}
+			],
+			"sid": 978001289919833
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "PunteroJugador",
+					"sid": 778217084248751,
+					"parameters": {
+						"object": "VPN"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 504952333068284,
+					"parameters": {
+						"layout": "VPN"
+					}
+				}
+			],
+			"sid": 610869288310496
+		}
+	],
+	"sid": 494268651478390
+}

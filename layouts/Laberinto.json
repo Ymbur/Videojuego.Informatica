@@ -1,5 +1,5 @@
 {
-	"name": "Escena 1",
+	"name": "Laberinto",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -7,7 +7,7 @@
 			"subLayers": [],
 			"instances": [
 				{
-					"type": "FondoEnMosaico",
+					"type": "Fondo",
 					"properties": {
 						"initially-visible": true,
 						"origin": "top-left",
@@ -40,7 +40,7 @@
 					}
 				},
 				{
-					"type": "FondoEnMosaico2",
+					"type": "DesenfoqueDeFondo",
 					"properties": {
 						"initially-visible": true,
 						"origin": "top-left",
@@ -1728,10 +1728,10 @@
 						}
 					},
 					"world": {
-						"x": 381,
+						"x": 380.96245724223377,
 						"y": 291,
 						"width": 5.519178208102792,
-						"height": 61.667000045782345,
+						"height": 61.591914530249994,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
@@ -1764,10 +1764,10 @@
 						}
 					},
 					"world": {
-						"x": 437,
+						"x": 437.03999999999996,
 						"y": 234,
 						"width": 5.519178208102792,
-						"height": 61.66700004578229,
+						"height": 61.587000045782304,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
@@ -6839,5 +6839,5 @@
 	"vpX": 0.5,
 	"vpY": 0.5,
 	"projection": "perspective",
-	"eventSheet": "Hoja de eventos 1"
+	"eventSheet": "Eventos laberinto"
 }

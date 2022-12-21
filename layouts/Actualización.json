@@ -1,5 +1,5 @@
 {
-	"name": "Antivirus",
+	"name": "Actualización",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -19,12 +19,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 87,
+					"uid": 199,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -174,
-						"y": -97,
+						"x": -194,
+						"y": -80,
 						"width": 2022,
 						"height": 1242,
 						"originX": 0,
@@ -52,12 +52,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 113,
+					"uid": 200,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -195.3127518612116,
-						"y": -145.86831500580564,
+						"x": -215,
+						"y": -129,
 						"width": 2091,
 						"height": 1318,
 						"originX": 0,
@@ -73,38 +73,9 @@
 					}
 				},
 				{
-					"type": "Antivirus",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 114,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 153.04528379209074,
-						"y": 129.71607130660487,
-						"width": 77.33891567729799,
-						"height": 77.33891567729799,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
 					"type": "Titulos",
 					"properties": {
-						"text": "A N T I V I R U S",
+						"text": "A C T U A L I Z A C I Ó N",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 40,
@@ -123,13 +94,13 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 146,
+					"uid": 202,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 221.67078751451407,
-						"y": 91.0452837920908,
-						"width": 508,
+						"x": 98.38965158104429,
+						"y": 108.95935507795332,
+						"width": 740.1242191593605,
 						"height": 65,
 						"originX": 0,
 						"originY": 0,
@@ -165,12 +136,12 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 179,
+					"uid": 203,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 359.172288814274,
-						"y": 19.36989922422856,
+						"x": 339,
+						"y": 36,
 						"width": 196.21801789495225,
 						"height": 32.54320060105181,
 						"originX": 0,
@@ -194,12 +165,12 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 198,
+					"uid": 204,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 822.5500487450132,
-						"y": 32.80843316461613,
+						"x": 803,
+						"y": 50,
 						"width": 33.11412665501273,
 						"height": 33.11412665501273,
 						"originX": 0.5,
@@ -213,9 +184,38 @@
 						"angle": 0,
 						"zElevation": 0
 					}
+				},
+				{
+					"type": "Actualizacion",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 205,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 51.849097455692934,
+						"y": 144.44719641537972,
+						"width": 68.5841235172525,
+						"height": 68.5841235172525,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
 				}
 			],
-			"sid": 878518970146652,
+			"sid": 651826381386511,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -244,7 +244,7 @@
 			"global": false
 		}
 	],
-	"sid": 591013129516614,
+	"sid": 789340996289304,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
@@ -253,5 +253,5 @@
 	"vpX": 0.5,
 	"vpY": 0.5,
 	"projection": "perspective",
-	"eventSheet": "Eventos antivirus"
+	"eventSheet": "Eventos actualización"
 }

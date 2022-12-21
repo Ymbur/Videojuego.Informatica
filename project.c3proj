@@ -16,14 +16,6 @@
 		},
 		{
 			"type": "plugin",
-			"id": "Text",
-			"name": "Texto",
-			"author": "Scirra",
-			"version": "r317.2",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
 			"id": "Keyboard",
 			"name": "Teclado",
 			"author": "Scirra",
@@ -34,6 +26,22 @@
 			"type": "plugin",
 			"id": "TiledBg",
 			"name": "Fondo en mosaico",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Texto",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Button",
+			"name": "Botón",
 			"author": "Scirra",
 			"version": "r317.2",
 			"bundled": false
@@ -75,14 +83,15 @@
 			"Actualizacion",
 			"Phising",
 			"PC",
-			"Letrero1",
 			"Conexión",
 			"PunteroJugador",
 			"Teclado",
 			"ColisionDetector",
-			"FondoEnMosaico",
-			"FondoEnMosaico2",
-			"Texto"
+			"Fondo",
+			"DesenfoqueDeFondo",
+			"Titulos",
+			"Cerrar",
+			"Botón"
 		],
 		"subfolders": []
 	},
@@ -94,15 +103,23 @@
 	},
 	"layouts": {
 		"items": [
-			"Escena 1",
-			"Antivirus"
+			"Menu inicio",
+			"Laberinto",
+			"Antivirus",
+			"Actualización",
+			"Contraseña",
+			"VPN"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Hoja de eventos 1",
-			"Hoja de eventos 2"
+			"Eventos laberinto",
+			"Eventos antivirus",
+			"Eventos inicio",
+			"Eventos actualización",
+			"Eventos contraseña",
+			"Eventos VPN"
 		],
 		"subfolders": []
 	},

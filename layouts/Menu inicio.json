@@ -1,5 +1,5 @@
 {
-	"name": "Antivirus",
+	"name": "Menu inicio",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -19,11 +19,11 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 87,
+					"uid": 210,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -174,
+						"x": -197,
 						"y": -97,
 						"width": 2022,
 						"height": 1242,
@@ -52,12 +52,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 113,
+					"uid": 219,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -195.3127518612116,
-						"y": -145.86831500580564,
+						"x": -218,
+						"y": -146,
 						"width": 2091,
 						"height": 1318,
 						"originX": 0,
@@ -73,38 +73,9 @@
 					}
 				},
 				{
-					"type": "Antivirus",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 114,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 153.04528379209074,
-						"y": 129.71607130660487,
-						"width": 77.33891567729799,
-						"height": 77.33891567729799,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
 					"type": "Titulos",
 					"properties": {
-						"text": "A N T I V I R U S",
+						"text": "VIAJE HACIA LA RED ",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 40,
@@ -123,13 +94,13 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 146,
+					"uid": 220,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 221.67078751451407,
-						"y": 91.0452837920908,
-						"width": 508,
+						"x": 150.21433173795066,
+						"y": 44.79833980362545,
+						"width": 572.6130728775356,
 						"height": 65,
 						"originX": 0,
 						"originY": 0,
@@ -144,35 +115,26 @@
 					}
 				},
 				{
-					"type": "Titulos",
+					"type": "Botón",
 					"properties": {
-						"text": "HAS OBTENIDO",
-						"enable-bbcode": true,
-						"font": "monospace",
-						"size": 20,
-						"line-height": 0,
-						"bold": true,
-						"italic": false,
-						"color": [
-							0.01568627450980392,
-							1,
-							0,
-							1
-						],
-						"horizontal-alignment": "left",
-						"vertical-alignment": "top",
-						"wrapping": "word",
+						"type": "button",
+						"text": "CONECTAR",
+						"tooltip": "",
 						"initially-visible": true,
-						"origin": "top-left"
+						"enabled": true,
+						"auto-font-size": true,
+						"checked": false,
+						"id": "",
+						"class": ""
 					},
-					"uid": 179,
+					"uid": 221,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 359.172288814274,
-						"y": 19.36989922422856,
-						"width": 196.21801789495225,
-						"height": 32.54320060105181,
+						"x": 337.2917020526887,
+						"y": 168.0140454688526,
+						"width": 114.8249436513899,
+						"height": 42.031555221637916,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -180,42 +142,11 @@
 							1,
 							1,
 							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
-					"type": "Cerrar",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 198,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 822.5500487450132,
-						"y": 32.80843316461613,
-						"width": 33.11412665501273,
-						"height": 33.11412665501273,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
+						]
 					}
 				}
 			],
-			"sid": 878518970146652,
+			"sid": 645503985285991,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -244,7 +175,7 @@
 			"global": false
 		}
 	],
-	"sid": 591013129516614,
+	"sid": 253065613683712,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
@@ -253,5 +184,5 @@
 	"vpX": 0.5,
 	"vpY": 0.5,
 	"projection": "perspective",
-	"eventSheet": "Eventos antivirus"
+	"eventSheet": "Eventos inicio"
 }

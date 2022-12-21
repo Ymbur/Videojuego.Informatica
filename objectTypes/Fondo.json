@@ -1,20 +1,20 @@
 {
-	"name": "FondoEnMosaico2",
+	"name": "Fondo",
 	"plugin-id": "TiledBg",
-	"sid": 106776180467461,
+	"sid": 244935491672795,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
 	"effectTypes": [],
 	"image": {
-		"width": 250,
-		"height": 250,
+		"width": 1680,
+		"height": 1050,
 		"originX": 0.5,
 		"originY": 0.5,
 		"originalSource": "",
 		"exportFormat": "lossless",
 		"exportQuality": 0.8,
-		"imageSpriteId": 6579646,
+		"imageSpriteId": 3155388,
 		"useCollisionPoly": true
 	}
 }
