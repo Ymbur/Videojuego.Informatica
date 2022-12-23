@@ -1,5 +1,32 @@
 {
 	"name": "Eventos Phising",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 241145268469523,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Cerrar"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 537236863298362,
+					"parameters": {
+						"layout": "Laberinto final"
+					}
+				}
+			],
+			"sid": 815651518918094
+		}
+	],
 	"sid": 627086001409591
 }

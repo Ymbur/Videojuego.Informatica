@@ -19,9 +19,9 @@
 				{
 					"id": "go-to-layout",
 					"objectClass": "System",
-					"sid": 572911351920759,
+					"sid": 461696763654234,
 					"parameters": {
-						"layout": "Laberinto"
+						"layout": "Laberinto ACT"
 					}
 				}
 			],

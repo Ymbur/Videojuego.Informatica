@@ -19,9 +19,9 @@
 				{
 					"id": "go-to-layout",
 					"objectClass": "System",
-					"sid": 263747257748808,
+					"sid": 608299081842754,
 					"parameters": {
-						"layout": "Laberinto"
+						"layout": "LaberintoVPN"
 					}
 				}
 			],

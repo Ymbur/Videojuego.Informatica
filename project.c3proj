@@ -127,7 +127,12 @@
 			"Actualización",
 			"Contraseña",
 			"VPN",
-			"Phising"
+			"Phising",
+			"LaberintoAV",
+			"LaberintoVPN",
+			"Laberinto ACT",
+			"Laberinto final",
+			"Laberinto PW"
 		],
 		"subfolders": []
 	},
