@@ -262,6 +262,78 @@
 				}
 			],
 			"sid": 368957679014823
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "PunteroJugador",
+					"sid": 740519972599876,
+					"parameters": {
+						"object": "RedPública"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 966659635022245,
+					"parameters": {
+						"audio-file": "Encendido conexion",
+						"loop": "not-looping",
+						"volume": "0",
+						"stereo-pan": "0",
+						"tag-optional": "\"\""
+					}
+				},
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 751641670096986,
+					"parameters": {
+						"layout": "Final juego"
+					}
+				}
+			],
+			"sid": 142782301428288
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "PunteroJugador",
+					"sid": 163168734673199,
+					"parameters": {
+						"object": "Virus"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 596577513658670,
+					"parameters": {
+						"layout": "Virus"
+					}
+				},
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 733225413721972,
+					"parameters": {
+						"audio-file": "Phising",
+						"loop": "not-looping",
+						"volume": "0",
+						"stereo-pan": "0",
+						"tag-optional": "\"\""
+					}
+				}
+			],
+			"sid": 281247884890753
 		}
 	],
 	"sid": 494268651478390

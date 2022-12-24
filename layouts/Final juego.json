@@ -1,5 +1,5 @@
 {
-	"name": "Phising",
+	"name": "Final juego",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -19,12 +19,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 224,
+					"uid": 1187,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -184,
-						"y": -72,
+						"x": -195,
+						"y": -91,
 						"width": 2022,
 						"height": 1242,
 						"originX": 0,
@@ -52,12 +52,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 225,
+					"uid": 1188,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -205,
-						"y": -121,
+						"x": -216,
+						"y": -140,
 						"width": 2091,
 						"height": 1318,
 						"originX": 0,
@@ -75,16 +75,16 @@
 				{
 					"type": "Titulos",
 					"properties": {
-						"text": "P H I S I N G ",
+						"text": "El paquete de datos ha llegado a su destino",
 						"enable-bbcode": true,
 						"font": "monospace",
-						"size": 40,
+						"size": 25,
 						"line-height": 0,
 						"bold": true,
 						"italic": false,
 						"color": [
+							0.01568627450980392,
 							1,
-							0,
 							0,
 							1
 						],
@@ -94,13 +94,13 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 226,
+					"uid": 1189,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 244,
-						"y": 43,
-						"width": 381.74502076263013,
+						"x": 39,
+						"y": 105,
+						"width": 796.7450207626302,
 						"height": 65,
 						"originX": 0,
 						"originY": 0,
@@ -117,7 +117,7 @@
 				{
 					"type": "Titulos",
 					"properties": {
-						"text": "PELIGRO",
+						"text": "¡ENHORABUENA!",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 20,
@@ -125,8 +125,8 @@
 						"bold": true,
 						"italic": false,
 						"color": [
+							0.01568627450980392,
 							1,
-							0,
 							0,
 							1
 						],
@@ -136,13 +136,13 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 227,
+					"uid": 1190,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 387,
-						"y": 12,
-						"width": 103.21801789495225,
+						"x": 341,
+						"y": 24,
+						"width": 196.21801789495225,
 						"height": 32.54320060105181,
 						"originX": 0,
 						"originY": 0,
@@ -157,82 +157,37 @@
 					}
 				},
 				{
-					"type": "Cerrar",
+					"type": "Titulos",
 					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 228,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 810,
-						"y": 40,
-						"width": 33.11412665501273,
-						"height": 33.11412665501273,
-						"originX": 0.5,
-						"originY": 0.5,
+						"text": "Has logrado sortear todos los peligros de Internet y mandar información de manera segura gracias a lo que has aprendido.",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 14,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
 						"color": [
+							0.01568627450980392,
 							1,
-							1,
-							1,
+							0,
 							1
 						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
-					"type": "EnlacePhising",
-					"properties": {
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
 						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
+						"origin": "top-left"
 					},
-					"uid": 1184,
+					"uid": 1193,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 436.75948590009006,
-						"y": 405.2773475951794,
-						"width": 398.85028473079205,
-						"height": 25.98391771613178,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
-					"type": "CapturaPhising",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 1183,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 436.9383019898762,
-						"y": 258.79368747148175,
-						"width": 399.1472081746875,
-						"height": 277.7198948444362,
-						"originX": 0.5,
-						"originY": 0.5,
+						"x": 123,
+						"y": 204,
+						"width": 625,
+						"height": 47,
+						"originX": 0,
+						"originY": 0,
 						"color": [
 							1,
 							1,
@@ -247,7 +202,7 @@
 					"type": "BotonPhising",
 					"properties": {
 						"type": "button",
-						"text": "PHISING",
+						"text": "Comenzar de nuevo",
 						"tooltip": "",
 						"initially-visible": true,
 						"enabled": true,
@@ -256,13 +211,13 @@
 						"id": "",
 						"class": ""
 					},
-					"uid": 1185,
+					"uid": 1191,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 331.96659483581277,
-						"y": 433.13684906219544,
-						"width": 85.37245634917986,
+						"x": 331,
+						"y": 375,
+						"width": 198.37245634917986,
 						"height": 33.80646798939847,
 						"originX": 0,
 						"originY": 0,
@@ -275,26 +230,35 @@
 					}
 				},
 				{
-					"type": "BotonLegitimo",
+					"type": "Titulos",
 					"properties": {
-						"type": "button",
-						"text": "LEGITIMO",
-						"tooltip": "",
+						"text": "Repasa el juego cuantas veces necesites.",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 12,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							0.01568627450980392,
+							1,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
 						"initially-visible": true,
-						"enabled": true,
-						"auto-font-size": true,
-						"checked": false,
-						"id": "",
-						"class": ""
+						"origin": "top-left"
 					},
-					"uid": 1186,
+					"uid": 1192,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 461.0897265795935,
-						"y": 433.1368831437186,
-						"width": 83.58946216928922,
-						"height": 33.806467989398584,
+						"x": 257,
+						"y": 295,
+						"width": 358.21801789495225,
+						"height": 32.54320060105181,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -302,11 +266,13 @@
 							1,
 							1,
 							1
-						]
+						],
+						"angle": 0,
+						"zElevation": 0
 					}
 				}
 			],
-			"sid": 133976260549949,
+			"sid": 112445848824074,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -317,9 +283,9 @@
 				1
 			],
 			"backgroundColor": [
-				1,
-				1,
-				1,
+				0.3686274509803922,
+				0.3686274509803922,
+				0.3686274509803922,
 				1
 			],
 			"isTransparent": false,
@@ -335,7 +301,7 @@
 			"global": false
 		}
 	],
-	"sid": 973623053666046,
+	"sid": 612627788435220,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
@@ -344,5 +310,5 @@
 	"vpX": 0.5,
 	"vpY": 0.5,
 	"projection": "perspective",
-	"eventSheet": "Eventos Phising"
+	"eventSheet": "Eventos final juego"
 }

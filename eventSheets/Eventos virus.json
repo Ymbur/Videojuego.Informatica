@@ -1,5 +1,5 @@
 {
-	"name": "Eventos contraseña",
+	"name": "Eventos virus",
 	"events": [
 		{
 			"eventType": "block",
@@ -7,7 +7,7 @@
 				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
-					"sid": 809677096446332,
+					"sid": 506931122439535,
 					"parameters": {
 						"mouse-button": "left",
 						"click-type": "clicked",
@@ -19,7 +19,7 @@
 				{
 					"id": "play",
 					"objectClass": "Audio",
-					"sid": 890581911405478,
+					"sid": 692056956357982,
 					"parameters": {
 						"audio-file": "Pasos raton",
 						"loop": "not-looping",
@@ -31,14 +31,14 @@
 				{
 					"id": "go-to-layout",
 					"objectClass": "System",
-					"sid": 548098943644140,
+					"sid": 760112342606714,
 					"parameters": {
-						"layout": "Laberinto PW"
+						"layout": "Laberinto"
 					}
 				}
 			],
-			"sid": 865954540933962
+			"sid": 377098511850957
 		}
 	],
-	"sid": 871756281533025
+	"sid": 169795986513799
 }

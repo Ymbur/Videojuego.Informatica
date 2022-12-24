@@ -1,5 +1,5 @@
 {
-	"name": "Phising",
+	"name": "Virus",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -19,12 +19,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 224,
+					"uid": 1198,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
 						"x": -184,
-						"y": -72,
+						"y": -71,
 						"width": 2022,
 						"height": 1242,
 						"originX": 0,
@@ -52,12 +52,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 225,
+					"uid": 1199,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
 						"x": -205,
-						"y": -121,
+						"y": -120,
 						"width": 2091,
 						"height": 1318,
 						"originX": 0,
@@ -75,7 +75,7 @@
 				{
 					"type": "Titulos",
 					"properties": {
-						"text": "P H I S I N G ",
+						"text": "M A L W A R E ",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 40,
@@ -94,12 +94,12 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 226,
+					"uid": 1200,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 244,
-						"y": 43,
+						"x": 242,
+						"y": 82,
 						"width": 381.74502076263013,
 						"height": 65,
 						"originX": 0,
@@ -136,12 +136,12 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 227,
+					"uid": 1201,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 387,
-						"y": 12,
+						"x": 385,
+						"y": 29,
 						"width": 103.21801789495225,
 						"height": 32.54320060105181,
 						"originX": 0,
@@ -165,12 +165,12 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 228,
+					"uid": 1202,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
 						"x": 810,
-						"y": 40,
+						"y": 41,
 						"width": 33.11412665501273,
 						"height": 33.11412665501273,
 						"originX": 0.5,
@@ -186,24 +186,37 @@
 					}
 				},
 				{
-					"type": "EnlacePhising",
+					"type": "Titulos",
 					"properties": {
+						"text": "Un virus ha robado tu informacion del paquete de datos. ",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 14,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							1,
+							0,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
 						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
+						"origin": "top-left"
 					},
-					"uid": 1184,
+					"uid": 1203,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 436.75948590009006,
-						"y": 405.2773475951794,
-						"width": 398.85028473079205,
-						"height": 25.98391771613178,
-						"originX": 0.5,
-						"originY": 0.5,
+						"x": 142,
+						"y": 203,
+						"width": 574,
+						"height": 189,
+						"originX": 0,
+						"originY": 0,
 						"color": [
 							1,
 							1,
@@ -215,24 +228,37 @@
 					}
 				},
 				{
-					"type": "CapturaPhising",
+					"type": "Titulos",
 					"properties": {
+						"text": "Debes proteger más tu ordenador antes de continuar por aqui.",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 14,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							1,
+							0,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
 						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
+						"origin": "top-left"
 					},
-					"uid": 1183,
+					"uid": 1204,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 436.9383019898762,
-						"y": 258.79368747148175,
-						"width": 399.1472081746875,
-						"height": 277.7198948444362,
-						"originX": 0.5,
-						"originY": 0.5,
+						"x": 115,
+						"y": 249,
+						"width": 631,
+						"height": 189,
+						"originX": 0,
+						"originY": 0,
 						"color": [
 							1,
 							1,
@@ -244,69 +270,36 @@
 					}
 				},
 				{
-					"type": "BotonPhising",
+					"type": "Sprite",
 					"properties": {
-						"type": "button",
-						"text": "PHISING",
-						"tooltip": "",
 						"initially-visible": true,
-						"enabled": true,
-						"auto-font-size": true,
-						"checked": false,
-						"id": "",
-						"class": ""
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
 					},
-					"uid": 1185,
+					"uid": 1205,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 331.96659483581277,
-						"y": 433.13684906219544,
-						"width": 85.37245634917986,
-						"height": 33.80646798939847,
-						"originX": 0,
-						"originY": 0,
+						"x": 425,
+						"y": 393,
+						"width": 304.59951187063234,
+						"height": 232.25712780135714,
+						"originX": 0.5,
+						"originY": 0.5,
 						"color": [
 							1,
 							1,
 							1,
 							1
-						]
-					}
-				},
-				{
-					"type": "BotonLegitimo",
-					"properties": {
-						"type": "button",
-						"text": "LEGITIMO",
-						"tooltip": "",
-						"initially-visible": true,
-						"enabled": true,
-						"auto-font-size": true,
-						"checked": false,
-						"id": "",
-						"class": ""
-					},
-					"uid": 1186,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 461.0897265795935,
-						"y": 433.1368831437186,
-						"width": 83.58946216928922,
-						"height": 33.806467989398584,
-						"originX": 0,
-						"originY": 0,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						]
+						],
+						"angle": 0,
+						"zElevation": 0
 					}
 				}
 			],
-			"sid": 133976260549949,
+			"sid": 465683658794560,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -317,9 +310,9 @@
 				1
 			],
 			"backgroundColor": [
-				1,
-				1,
-				1,
+				0.3686274509803922,
+				0.3686274509803922,
+				0.3686274509803922,
 				1
 			],
 			"isTransparent": false,
@@ -335,7 +328,7 @@
 			"global": false
 		}
 	],
-	"sid": 973623053666046,
+	"sid": 216606679313651,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
@@ -344,5 +337,5 @@
 	"vpX": 0.5,
 	"vpY": 0.5,
 	"projection": "perspective",
-	"eventSheet": "Eventos Phising"
+	"eventSheet": "Eventos virus"
 }
