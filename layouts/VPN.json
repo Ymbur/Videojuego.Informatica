@@ -213,6 +213,90 @@
 						"angle": 0,
 						"zElevation": 0
 					}
+				},
+				{
+					"type": "Titulos",
+					"properties": {
+						"text": "Una VPN es una red privada virtual que permite al usuario una extensión segura de la red local a través de la que conectarse a Internet de una manera mucho más segura.",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 14,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							0.01568627450980392,
+							1,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"initially-visible": true,
+						"origin": "top-left"
+					},
+					"uid": 1172,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 91,
+						"y": 238,
+						"width": 655,
+						"height": 189,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Titulos",
+					"properties": {
+						"text": "Para esto se usa una conexión virtual punto a punto que combina cifrado de datos y uso de conexiones dedicadas",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 14,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							0.01568627450980392,
+							1,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"initially-visible": true,
+						"origin": "top-left"
+					},
+					"uid": 1173,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 91,
+						"y": 333,
+						"width": 651,
+						"height": 189,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
 				}
 			],
 			"sid": 714767021542833,

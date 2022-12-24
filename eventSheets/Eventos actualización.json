@@ -5,6 +5,27 @@
 			"eventType": "block",
 			"conditions": [
 				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 325261388299423
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Cerrar",
+					"sid": 662966749043994,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 612643303119614
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
 					"sid": 571714585604436,
@@ -17,6 +38,18 @@
 			],
 			"actions": [
 				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 783189851492590,
+					"parameters": {
+						"audio-file": "Pasos raton",
+						"loop": "not-looping",
+						"volume": "0",
+						"stereo-pan": "0",
+						"tag-optional": "\"\""
+					}
+				},
+				{
 					"id": "go-to-layout",
 					"objectClass": "System",
 					"sid": 461696763654234,
@@ -26,6 +59,39 @@
 				}
 			],
 			"sid": 159803820100251
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "TextoMcafee",
+					"sid": 854869333755331,
+					"parameters": {
+						"text": "\"WannaCry\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Cerrar",
+					"sid": 456938664910401,
+					"parameters": {
+						"visibility": "visible"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "TextoMcafee",
+					"sid": 403193944607775,
+					"parameters": {
+						"mode": "disabled"
+					}
+				}
+			],
+			"sid": 312722889339500
 		}
 	],
 	"sid": 916789524388240

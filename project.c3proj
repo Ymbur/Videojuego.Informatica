@@ -63,6 +63,14 @@
 			"bundled": false
 		},
 		{
+			"type": "plugin",
+			"id": "TextBox",
+			"name": "Entrada de texto",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
 			"type": "behavior",
 			"id": "scrollto",
 			"name": "Desplazar hasta",
@@ -109,7 +117,13 @@
 			"Cerrar",
 			"Botón",
 			"Audio",
-			"Mouse"
+			"Mouse",
+			"AvastLogo",
+			"DefenderLogo",
+			"McafeeLogo",
+			"TextoAVAST",
+			"TextoMcafee",
+			"TextoDefender"
 		],
 		"subfolders": []
 	},

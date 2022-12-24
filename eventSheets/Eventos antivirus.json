@@ -5,6 +5,27 @@
 			"eventType": "block",
 			"conditions": [
 				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 133563537797703
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Cerrar",
+					"sid": 245014721070503,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 980354117292666
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
 					"sid": 483422530226227,
@@ -17,6 +38,18 @@
 			],
 			"actions": [
 				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 628424221038659,
+					"parameters": {
+						"audio-file": "Pasos raton",
+						"loop": "not-looping",
+						"volume": "0",
+						"stereo-pan": "0",
+						"tag-optional": "\"\""
+					}
+				},
+				{
 					"id": "go-to-layout",
 					"objectClass": "System",
 					"sid": 347019386278788,
@@ -26,6 +59,73 @@
 				}
 			],
 			"sid": 501520438319147
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "TextoAVAST",
+					"sid": 920385885176708,
+					"parameters": {
+						"text": "\"Avast\"",
+						"case": "case-insensitive"
+					}
+				},
+				{
+					"id": "compare-text",
+					"objectClass": "TextoDefender",
+					"sid": 783676069273238,
+					"parameters": {
+						"text": "\"Windows Defender\"",
+						"case": "case-insensitive"
+					}
+				},
+				{
+					"id": "compare-text",
+					"objectClass": "TextoMcafee",
+					"sid": 290448795974568,
+					"parameters": {
+						"text": "\"McAfee\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Cerrar",
+					"sid": 453530470685049,
+					"parameters": {
+						"visibility": "visible"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "TextoAVAST",
+					"sid": 692779393479363,
+					"parameters": {
+						"mode": "disabled"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "TextoDefender",
+					"sid": 490298671905411,
+					"parameters": {
+						"mode": "disabled"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "TextoMcafee",
+					"sid": 424453767137435,
+					"parameters": {
+						"mode": "disabled"
+					}
+				}
+			],
+			"sid": 734156401348347
 		}
 	],
 	"sid": 973525825208612
