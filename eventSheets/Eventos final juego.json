@@ -1,0 +1,27 @@
+{
+	"name": "Eventos final juego",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "BotonPhising",
+					"sid": 283388157905128
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 979860394524953,
+					"parameters": {
+						"layout": "Menu inicio"
+					}
+				}
+			],
+			"sid": 383672351978631
+		}
+	],
+	"sid": 257369799652699
+}

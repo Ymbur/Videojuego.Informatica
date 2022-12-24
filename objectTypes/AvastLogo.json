@@ -1,7 +1,7 @@
 {
-	"name": "Cerrar",
+	"name": "AvastLogo",
 	"plugin-id": "Sprite",
-	"sid": 520716260236533,
+	"sid": 739774113063220,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,39 +11,39 @@
 			{
 				"frames": [
 					{
-						"width": 512,
-						"height": 512,
+						"width": 530,
+						"height": 536,
 						"originX": 0.5,
 						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 8733269,
+						"imageSpriteId": 8796323,
 						"collisionPoly": {
 							"points": [
-								0.0234375,
-								0.03515625,
-								0.51171875,
-								0.1875,
-								0.9765625,
-								0.02734375,
-								0.818359375,
-								0.53515625,
-								0.96875,
-								0.96875,
+								0.308,
+								0.308,
 								0.5,
-								0.80859375,
-								0.02734375,
-								0.96875,
-								0.12109375,
-								0.5078125
+								0.244,
+								0.864,
+								0.135,
+								0.687,
+								0.5,
+								0.891,
+								0.891,
+								0.5,
+								0.688,
+								0.345,
+								0.654,
+								0.243,
+								0.5
 							]
 						},
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 408691025655405,
+				"sid": 702513873345073,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

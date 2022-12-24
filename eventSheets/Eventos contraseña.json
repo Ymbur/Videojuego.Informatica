@@ -17,11 +17,23 @@
 			],
 			"actions": [
 				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 890581911405478,
+					"parameters": {
+						"audio-file": "Pasos raton",
+						"loop": "not-looping",
+						"volume": "0",
+						"stereo-pan": "0",
+						"tag-optional": "\"\""
+					}
+				},
+				{
 					"id": "go-to-layout",
 					"objectClass": "System",
-					"sid": 936263554767565,
+					"sid": 548098943644140,
 					"parameters": {
-						"layout": "Laberinto"
+						"layout": "Laberinto PW"
 					}
 				}
 			],

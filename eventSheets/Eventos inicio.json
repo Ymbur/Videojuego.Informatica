@@ -1,5 +1,60 @@
 {
 	"name": "Eventos inicio",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 830197560323151
+				}
+			],
+			"actions": [
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 713923945221657,
+					"parameters": {
+						"audio-file": "Teclado",
+						"loop": "looping",
+						"volume": "0",
+						"stereo-pan": "0",
+						"tag-optional": "\"teclado\""
+					}
+				}
+			],
+			"sid": 154734593334944
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "BotonLegitimo",
+					"sid": 894026313620321
+				}
+			],
+			"actions": [
+				{
+					"id": "stop",
+					"objectClass": "Audio",
+					"sid": 184820594748412,
+					"parameters": {
+						"tag": "\"teclado\""
+					}
+				},
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 396506185967916,
+					"parameters": {
+						"layout": "Laberinto"
+					}
+				}
+			],
+			"sid": 357999513904877
+		}
+	],
 	"sid": 305670633790470
 }

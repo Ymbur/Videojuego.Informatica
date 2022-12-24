@@ -1,7 +1,7 @@
 {
-	"name": "Cerrar",
+	"name": "McafeeLogo",
 	"plugin-id": "Sprite",
-	"sid": 520716260236533,
+	"sid": 725507418319384,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,39 +11,39 @@
 			{
 				"frames": [
 					{
-						"width": 512,
-						"height": 512,
+						"width": 315,
+						"height": 363,
 						"originX": 0.5,
 						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 8733269,
+						"imageSpriteId": 9846685,
 						"collisionPoly": {
 							"points": [
-								0.0234375,
-								0.03515625,
-								0.51171875,
-								0.1875,
-								0.9765625,
-								0.02734375,
-								0.818359375,
-								0.53515625,
-								0.96875,
-								0.96875,
+								0,
+								0,
 								0.5,
-								0.80859375,
-								0.02734375,
-								0.96875,
-								0.12109375,
-								0.5078125
+								0.20110192837465565,
+								0.9968253968253968,
+								0,
+								0.9968253968253968,
+								0.5,
+								0.8380952380952381,
+								0.859504132231405,
+								0.5,
+								0.9972451790633609,
+								0.15873015873015872,
+								0.859504132231405,
+								0,
+								0.5
 							]
 						},
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 408691025655405,
+				"sid": 550076063180451,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

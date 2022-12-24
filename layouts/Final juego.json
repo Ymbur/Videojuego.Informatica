@@ -1,5 +1,5 @@
 {
-	"name": "VPN",
+	"name": "Final juego",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -19,12 +19,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 211,
+					"uid": 1187,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -194,
-						"y": -85,
+						"x": -195,
+						"y": -91,
 						"width": 2022,
 						"height": 1242,
 						"originX": 0,
@@ -52,12 +52,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 212,
+					"uid": 1188,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -215,
-						"y": -134,
+						"x": -216,
+						"y": -140,
 						"width": 2091,
 						"height": 1318,
 						"originX": 0,
@@ -75,10 +75,10 @@
 				{
 					"type": "Titulos",
 					"properties": {
-						"text": "V P N",
+						"text": "El paquete de datos ha llegado a su destino",
 						"enable-bbcode": true,
 						"font": "monospace",
-						"size": 40,
+						"size": 25,
 						"line-height": 0,
 						"bold": true,
 						"italic": false,
@@ -94,13 +94,13 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 213,
+					"uid": 1189,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 350.6775515029865,
-						"y": 97.27557601870484,
-						"width": 163.74502076263013,
+						"x": 39,
+						"y": 105,
+						"width": 796.7450207626302,
 						"height": 65,
 						"originX": 0,
 						"originY": 0,
@@ -117,7 +117,7 @@
 				{
 					"type": "Titulos",
 					"properties": {
-						"text": "HAS OBTENIDO",
+						"text": "¡ENHORABUENA!",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 20,
@@ -136,12 +136,12 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 214,
+					"uid": 1190,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 339,
-						"y": 31,
+						"x": 341,
+						"y": 24,
 						"width": 196.21801789495225,
 						"height": 32.54320060105181,
 						"originX": 0,
@@ -157,67 +157,9 @@
 					}
 				},
 				{
-					"type": "Cerrar",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 215,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 803,
-						"y": 45,
-						"width": 33.11412665501273,
-						"height": 33.11412665501273,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
-					"type": "VPN",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 217,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 278.00314504523203,
-						"y": 133.56572722321292,
-						"width": 77.14541691143944,
-						"height": 77.14541691143944,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
 					"type": "Titulos",
 					"properties": {
-						"text": "Una VPN es una red privada virtual que permite al usuario una extensión segura de la red local a través de la que conectarse a Internet de una manera mucho más segura.",
+						"text": "Has logrado sortear todos los peligros de Internet y mandar información de manera segura gracias a lo que has aprendido.",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 14,
@@ -236,14 +178,14 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 1172,
+					"uid": 1193,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 91,
-						"y": 238,
-						"width": 655,
-						"height": 189,
+						"x": 123,
+						"y": 204,
+						"width": 625,
+						"height": 47,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -257,12 +199,43 @@
 					}
 				},
 				{
+					"type": "BotonPhising",
+					"properties": {
+						"type": "button",
+						"text": "Comenzar de nuevo",
+						"tooltip": "",
+						"initially-visible": true,
+						"enabled": true,
+						"auto-font-size": true,
+						"checked": false,
+						"id": "",
+						"class": ""
+					},
+					"uid": 1191,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 331,
+						"y": 375,
+						"width": 198.37245634917986,
+						"height": 33.80646798939847,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						]
+					}
+				},
+				{
 					"type": "Titulos",
 					"properties": {
-						"text": "Para esto se usa una conexión virtual punto a punto que combina cifrado de datos y uso de conexiones dedicadas",
+						"text": "Repasa el juego cuantas veces necesites.",
 						"enable-bbcode": true,
 						"font": "monospace",
-						"size": 14,
+						"size": 12,
 						"line-height": 0,
 						"bold": true,
 						"italic": false,
@@ -278,14 +251,14 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 1173,
+					"uid": 1192,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 91,
-						"y": 333,
-						"width": 651,
-						"height": 189,
+						"x": 257,
+						"y": 295,
+						"width": 358.21801789495225,
+						"height": 32.54320060105181,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -299,7 +272,7 @@
 					}
 				}
 			],
-			"sid": 714767021542833,
+			"sid": 112445848824074,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -328,7 +301,7 @@
 			"global": false
 		}
 	],
-	"sid": 434620809318916,
+	"sid": 612627788435220,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
@@ -337,5 +310,5 @@
 	"vpX": 0.5,
 	"vpY": 0.5,
 	"projection": "perspective",
-	"eventSheet": "Eventos VPN"
+	"eventSheet": "Eventos final juego"
 }

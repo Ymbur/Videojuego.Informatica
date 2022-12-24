@@ -1,5 +1,5 @@
 {
-	"name": "Antivirus",
+	"name": "Virus",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -19,12 +19,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 87,
+					"uid": 1198,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -174,
-						"y": -97,
+						"x": -184,
+						"y": -71,
 						"width": 2022,
 						"height": 1242,
 						"originX": 0,
@@ -52,12 +52,12 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 113,
+					"uid": 1199,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": -195.3127518612116,
-						"y": -145.86831500580564,
+						"x": -205,
+						"y": -120,
 						"width": 2091,
 						"height": 1318,
 						"originX": 0,
@@ -73,38 +73,9 @@
 					}
 				},
 				{
-					"type": "Antivirus",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 114,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 153.04528379209074,
-						"y": 101.71607130660487,
-						"width": 77.33891567729799,
-						"height": 77.33891567729799,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
 					"type": "Titulos",
 					"properties": {
-						"text": "A N T I V I R U S",
+						"text": "M A L W A R E ",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 40,
@@ -112,8 +83,8 @@
 						"bold": true,
 						"italic": false,
 						"color": [
-							0.01568627450980392,
 							1,
+							0,
 							0,
 							1
 						],
@@ -123,13 +94,13 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 146,
+					"uid": 1200,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 221.67078751451407,
-						"y": 64.0452837920908,
-						"width": 508,
+						"x": 242,
+						"y": 82,
+						"width": 381.74502076263013,
 						"height": 65,
 						"originX": 0,
 						"originY": 0,
@@ -146,7 +117,7 @@
 				{
 					"type": "Titulos",
 					"properties": {
-						"text": "HAS OBTENIDO",
+						"text": "PELIGRO",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 20,
@@ -154,8 +125,8 @@
 						"bold": true,
 						"italic": false,
 						"color": [
-							0.01568627450980392,
 							1,
+							0,
 							0,
 							1
 						],
@@ -165,13 +136,13 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 179,
+					"uid": 1201,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 359.172288814274,
-						"y": 19.36989922422856,
-						"width": 196.21801789495225,
+						"x": 385,
+						"y": 29,
+						"width": 103.21801789495225,
 						"height": 32.54320060105181,
 						"originX": 0,
 						"originY": 0,
@@ -194,12 +165,12 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 198,
+					"uid": 1202,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 822.5500487450132,
-						"y": 32.80843316461613,
+						"x": 810,
+						"y": 41,
 						"width": 33.11412665501273,
 						"height": 33.11412665501273,
 						"originX": 0.5,
@@ -217,7 +188,7 @@
 				{
 					"type": "Titulos",
 					"properties": {
-						"text": "Pon el nombre de estos antivirus y sigue con tu ruta de datos.",
+						"text": "Un virus ha robado tu informacion del paquete de datos. ",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 14,
@@ -225,8 +196,8 @@
 						"bold": true,
 						"italic": false,
 						"color": [
-							0.01568627450980392,
 							1,
+							0,
 							0,
 							1
 						],
@@ -236,13 +207,13 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 793,
+					"uid": 1203,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 117,
-						"y": 170,
-						"width": 654,
+						"x": 142,
+						"y": 203,
+						"width": 574,
 						"height": 189,
 						"originX": 0,
 						"originY": 0,
@@ -257,24 +228,37 @@
 					}
 				},
 				{
-					"type": "AvastLogo",
+					"type": "Titulos",
 					"properties": {
+						"text": "Debes proteger más tu ordenador antes de continuar por aqui.",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 14,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							1,
+							0,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
 						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
+						"origin": "top-left"
 					},
-					"uid": 1166,
+					"uid": 1204,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 221.80579712258378,
-						"y": 308.2550724656894,
-						"width": 105.2756534180133,
-						"height": 106.46745326802855,
-						"originX": 0.5,
-						"originY": 0.5,
+						"x": 115,
+						"y": 249,
+						"width": 631,
+						"height": 189,
+						"originX": 0,
+						"originY": 0,
 						"color": [
 							1,
 							1,
@@ -286,7 +270,7 @@
 					}
 				},
 				{
-					"type": "McafeeLogo",
+					"type": "Sprite",
 					"properties": {
 						"initially-visible": true,
 						"initial-animation": "Animation 1",
@@ -294,14 +278,14 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 1168,
+					"uid": 1205,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 434,
-						"y": 309,
-						"width": 93.77377304344786,
-						"height": 108.0631098881637,
+						"x": 425,
+						"y": 393,
+						"width": 304.59951187063234,
+						"height": 232.25712780135714,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
@@ -312,138 +296,10 @@
 						],
 						"angle": 0,
 						"zElevation": 0
-					}
-				},
-				{
-					"type": "DefenderLogo",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 1169,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 643.2279189719989,
-						"y": 311.20923466965803,
-						"width": 223.44428486289706,
-						"height": 158.69279056152328,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
-					"type": "TextoAVAST",
-					"properties": {
-						"text": "",
-						"placeholder": "",
-						"tooltip": "",
-						"initially-visible": true,
-						"enabled": true,
-						"read-only": false,
-						"spell-check": false,
-						"type": "text",
-						"auto-font-size": true,
-						"id": "",
-						"class": ""
-					},
-					"uid": 1167,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 157.72179312041033,
-						"y": 391.27862317491304,
-						"width": 121.4222069877257,
-						"height": 13.677161714517949,
-						"originX": 0,
-						"originY": 0,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						]
-					}
-				},
-				{
-					"type": "TextoMcafee",
-					"properties": {
-						"text": "",
-						"placeholder": "",
-						"tooltip": "",
-						"initially-visible": true,
-						"enabled": true,
-						"read-only": false,
-						"spell-check": false,
-						"type": "text",
-						"auto-font-size": true,
-						"id": "",
-						"class": ""
-					},
-					"uid": 1170,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 372.9949997347869,
-						"y": 390.7700776189366,
-						"width": 122.40850291878348,
-						"height": 14.191683828451517,
-						"originX": 0,
-						"originY": 0,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						]
-					}
-				},
-				{
-					"type": "TextoDefender",
-					"properties": {
-						"text": "",
-						"placeholder": "",
-						"tooltip": "",
-						"initially-visible": true,
-						"enabled": true,
-						"read-only": false,
-						"spell-check": false,
-						"type": "text",
-						"auto-font-size": true,
-						"id": "",
-						"class": ""
-					},
-					"uid": 1171,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 580.8020296560364,
-						"y": 390.88836247391026,
-						"width": 123.09197650899875,
-						"height": 13.901459801281362,
-						"originX": 0,
-						"originY": 0,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						]
 					}
 				}
 			],
-			"sid": 878518970146652,
+			"sid": 465683658794560,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -472,7 +328,7 @@
 			"global": false
 		}
 	],
-	"sid": 591013129516614,
+	"sid": 216606679313651,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
@@ -481,5 +337,5 @@
 	"vpX": 0.5,
 	"vpY": 0.5,
 	"projection": "perspective",
-	"eventSheet": "Eventos antivirus"
+	"eventSheet": "Eventos virus"
 }

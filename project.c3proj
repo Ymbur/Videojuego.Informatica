@@ -40,14 +40,6 @@
 		},
 		{
 			"type": "plugin",
-			"id": "Button",
-			"name": "Botón",
-			"author": "Scirra",
-			"version": "r317.2",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
 			"id": "Audio",
 			"name": "Audio",
 			"author": "Scirra",
@@ -58,6 +50,22 @@
 			"type": "plugin",
 			"id": "Mouse",
 			"name": "Mouse",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TextBox",
+			"name": "Entrada de texto",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Button",
+			"name": "Botón",
 			"author": "Scirra",
 			"version": "r317.2",
 			"bundled": false
@@ -107,9 +115,19 @@
 			"DesenfoqueDeFondo",
 			"Titulos",
 			"Cerrar",
-			"Botón",
 			"Audio",
-			"Mouse"
+			"Mouse",
+			"AvastLogo",
+			"DefenderLogo",
+			"McafeeLogo",
+			"TextoAVAST",
+			"TextoMcafee",
+			"TextoDefender",
+			"CapturaPhising",
+			"EnlacePhising",
+			"BotonPhising",
+			"BotonLegitimo",
+			"Sprite"
 		],
 		"subfolders": []
 	},
@@ -127,7 +145,14 @@
 			"Actualización",
 			"Contraseña",
 			"VPN",
-			"Phising"
+			"Phising",
+			"LaberintoAV",
+			"LaberintoVPN",
+			"Laberinto ACT",
+			"Laberinto final",
+			"Laberinto PW",
+			"Final juego",
+			"Virus"
 		],
 		"subfolders": []
 	},
@@ -139,7 +164,9 @@
 			"Eventos actualización",
 			"Eventos contraseña",
 			"Eventos VPN",
-			"Eventos Phising"
+			"Eventos Phising",
+			"Eventos final juego",
+			"Eventos virus"
 		],
 		"subfolders": []
 	},

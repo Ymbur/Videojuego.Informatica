@@ -1,5 +1,5 @@
 {
-	"name": "Laberinto",
+	"name": "Laberinto final",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -19,7 +19,7 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 16,
+					"uid": 599,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -52,7 +52,7 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 17,
+					"uid": 606,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -81,7 +81,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 3,
+					"uid": 609,
 					"instanceVariables": {
 						"Dirección": 0,
 						"DuracionMovimiento": 0,
@@ -108,8 +108,8 @@
 						}
 					},
 					"world": {
-						"x": 103,
-						"y": 34,
+						"x": 957.7542455495468,
+						"y": 204.79368647198578,
 						"width": 25.868019808389757,
 						"height": 25.868019808389764,
 						"originX": 0.5,
@@ -133,7 +133,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 4,
+					"uid": 610,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -169,7 +169,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 5,
+					"uid": 611,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -205,7 +205,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 6,
+					"uid": 612,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -241,7 +241,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 7,
+					"uid": 613,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -277,7 +277,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 8,
+					"uid": 614,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -313,7 +313,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 9,
+					"uid": 615,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -349,7 +349,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 10,
+					"uid": 616,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -385,7 +385,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 11,
+					"uid": 617,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -421,7 +421,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 12,
+					"uid": 618,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -457,7 +457,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 13,
+					"uid": 619,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -493,7 +493,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 15,
+					"uid": 620,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -529,7 +529,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 18,
+					"uid": 621,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -565,7 +565,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 19,
+					"uid": 622,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -601,7 +601,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 20,
+					"uid": 623,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -637,7 +637,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 21,
+					"uid": 624,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -673,7 +673,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 22,
+					"uid": 625,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -709,7 +709,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 23,
+					"uid": 626,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -745,7 +745,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 24,
+					"uid": 627,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -781,7 +781,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 25,
+					"uid": 628,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -817,7 +817,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 26,
+					"uid": 629,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -853,7 +853,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 27,
+					"uid": 630,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -889,7 +889,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 28,
+					"uid": 631,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -925,7 +925,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 29,
+					"uid": 632,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -961,7 +961,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 30,
+					"uid": 633,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -997,7 +997,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 31,
+					"uid": 634,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1033,7 +1033,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 32,
+					"uid": 635,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1069,7 +1069,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 33,
+					"uid": 636,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1105,7 +1105,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 34,
+					"uid": 637,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1141,7 +1141,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 35,
+					"uid": 638,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1177,7 +1177,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 36,
+					"uid": 639,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1213,7 +1213,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 37,
+					"uid": 640,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1249,7 +1249,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 38,
+					"uid": 641,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1285,7 +1285,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 39,
+					"uid": 642,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1321,7 +1321,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 40,
+					"uid": 643,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1357,7 +1357,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 43,
+					"uid": 644,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1393,7 +1393,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 44,
+					"uid": 645,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1429,7 +1429,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 45,
+					"uid": 646,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1465,7 +1465,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 46,
+					"uid": 647,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1501,7 +1501,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 47,
+					"uid": 648,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1537,7 +1537,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 48,
+					"uid": 649,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1573,7 +1573,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 49,
+					"uid": 650,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1609,7 +1609,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 50,
+					"uid": 651,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1645,7 +1645,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 51,
+					"uid": 652,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1681,7 +1681,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 52,
+					"uid": 653,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1717,7 +1717,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 53,
+					"uid": 654,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1753,7 +1753,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 54,
+					"uid": 655,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1789,7 +1789,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 55,
+					"uid": 656,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1800,10 +1800,10 @@
 						}
 					},
 					"world": {
-						"x": 465.82531440473895,
+						"x": 466,
 						"y": 120,
 						"width": 5.519178208102792,
-						"height": 117.83980735106564,
+						"height": 118.18917854158775,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
@@ -1825,7 +1825,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 56,
+					"uid": 657,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1861,7 +1861,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 57,
+					"uid": 658,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1897,7 +1897,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 58,
+					"uid": 659,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1933,7 +1933,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 59,
+					"uid": 660,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -1969,7 +1969,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 60,
+					"uid": 661,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2005,7 +2005,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 61,
+					"uid": 662,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2041,7 +2041,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 62,
+					"uid": 663,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2077,7 +2077,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 63,
+					"uid": 664,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2113,7 +2113,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 64,
+					"uid": 665,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2149,7 +2149,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 65,
+					"uid": 666,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2185,7 +2185,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 67,
+					"uid": 667,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2221,7 +2221,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 68,
+					"uid": 668,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2257,7 +2257,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 70,
+					"uid": 669,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2293,7 +2293,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 71,
+					"uid": 670,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2329,7 +2329,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 72,
+					"uid": 671,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2365,7 +2365,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 73,
+					"uid": 672,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2401,7 +2401,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 74,
+					"uid": 673,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2437,7 +2437,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 75,
+					"uid": 674,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2473,7 +2473,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 76,
+					"uid": 675,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2509,7 +2509,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 77,
+					"uid": 676,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2545,7 +2545,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 78,
+					"uid": 677,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2581,7 +2581,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 79,
+					"uid": 678,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2617,7 +2617,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 80,
+					"uid": 679,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2653,7 +2653,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 81,
+					"uid": 680,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2689,7 +2689,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 82,
+					"uid": 681,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2725,7 +2725,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 84,
+					"uid": 682,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2761,7 +2761,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 86,
+					"uid": 683,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2772,10 +2772,10 @@
 						}
 					},
 					"world": {
-						"x": 832,
+						"x": 832.1945880221407,
 						"y": 909,
 						"width": 5.519178208102792,
-						"height": 61.86861599105117,
+						"height": 61.47943994676979,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
@@ -2797,7 +2797,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 89,
+					"uid": 684,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2833,7 +2833,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 90,
+					"uid": 685,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2869,7 +2869,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 91,
+					"uid": 686,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2905,7 +2905,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 92,
+					"uid": 687,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2941,7 +2941,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 93,
+					"uid": 688,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -2977,7 +2977,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 94,
+					"uid": 689,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3013,7 +3013,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 95,
+					"uid": 690,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3049,7 +3049,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 96,
+					"uid": 691,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3085,7 +3085,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 97,
+					"uid": 692,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3121,7 +3121,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 98,
+					"uid": 693,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3157,7 +3157,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 99,
+					"uid": 694,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3193,7 +3193,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 100,
+					"uid": 695,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3229,7 +3229,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 101,
+					"uid": 696,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3265,7 +3265,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 102,
+					"uid": 697,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3301,7 +3301,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 103,
+					"uid": 698,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3337,7 +3337,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 104,
+					"uid": 699,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3373,7 +3373,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 105,
+					"uid": 700,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3409,7 +3409,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 106,
+					"uid": 701,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3445,7 +3445,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 107,
+					"uid": 702,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3481,7 +3481,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 108,
+					"uid": 703,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3517,7 +3517,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 109,
+					"uid": 704,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3553,7 +3553,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 110,
+					"uid": 705,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3589,7 +3589,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 111,
+					"uid": 706,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3625,7 +3625,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 112,
+					"uid": 707,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3661,7 +3661,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 116,
+					"uid": 708,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3697,7 +3697,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 117,
+					"uid": 709,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3733,7 +3733,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 118,
+					"uid": 710,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3769,7 +3769,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 119,
+					"uid": 711,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3805,7 +3805,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 120,
+					"uid": 712,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3841,7 +3841,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 121,
+					"uid": 713,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3877,7 +3877,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 122,
+					"uid": 714,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3913,7 +3913,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 123,
+					"uid": 715,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3949,7 +3949,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 124,
+					"uid": 716,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -3985,7 +3985,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 125,
+					"uid": 717,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4021,7 +4021,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 126,
+					"uid": 718,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4057,7 +4057,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 127,
+					"uid": 719,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4093,7 +4093,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 128,
+					"uid": 720,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4129,7 +4129,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 129,
+					"uid": 721,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4165,7 +4165,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 130,
+					"uid": 722,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4201,7 +4201,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 131,
+					"uid": 723,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4237,7 +4237,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 132,
+					"uid": 724,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4273,7 +4273,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 133,
+					"uid": 725,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4309,7 +4309,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 134,
+					"uid": 726,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4345,7 +4345,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 135,
+					"uid": 727,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4381,7 +4381,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 136,
+					"uid": 728,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4417,7 +4417,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 137,
+					"uid": 729,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4453,7 +4453,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 138,
+					"uid": 730,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4489,7 +4489,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 139,
+					"uid": 731,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4525,7 +4525,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 140,
+					"uid": 732,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4561,7 +4561,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 141,
+					"uid": 733,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4597,7 +4597,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 142,
+					"uid": 734,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4633,7 +4633,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 143,
+					"uid": 735,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4669,7 +4669,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 144,
+					"uid": 736,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4681,9 +4681,9 @@
 					},
 					"world": {
 						"x": 466,
-						"y": 260.86709853760334,
+						"y": 261,
 						"width": 5.519178208102792,
-						"height": 285.8114038129037,
+						"height": 286.07720673769705,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
@@ -4705,7 +4705,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 145,
+					"uid": 737,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4741,7 +4741,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 147,
+					"uid": 738,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4753,9 +4753,9 @@
 					},
 					"world": {
 						"x": 522,
-						"y": 147.64386506191966,
+						"y": 148,
 						"width": 5.519178208102792,
-						"height": 60.83939402903985,
+						"height": 62.71623454027436,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
@@ -4777,7 +4777,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 148,
+					"uid": 739,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4813,7 +4813,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 149,
+					"uid": 740,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4849,7 +4849,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 150,
+					"uid": 741,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4885,7 +4885,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 151,
+					"uid": 742,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4921,7 +4921,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 152,
+					"uid": 743,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4957,7 +4957,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 153,
+					"uid": 744,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4993,7 +4993,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 154,
+					"uid": 745,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5029,7 +5029,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 155,
+					"uid": 746,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5065,7 +5065,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 156,
+					"uid": 747,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5101,7 +5101,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 157,
+					"uid": 748,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5137,7 +5137,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 158,
+					"uid": 749,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5173,7 +5173,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 159,
+					"uid": 750,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5209,7 +5209,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 160,
+					"uid": 751,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5245,7 +5245,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 161,
+					"uid": 752,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5281,7 +5281,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 162,
+					"uid": 753,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5317,7 +5317,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 163,
+					"uid": 754,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5353,7 +5353,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 164,
+					"uid": 755,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5389,7 +5389,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 165,
+					"uid": 756,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5425,7 +5425,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 166,
+					"uid": 757,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5461,7 +5461,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 167,
+					"uid": 758,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5497,7 +5497,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 168,
+					"uid": 759,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5533,7 +5533,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 169,
+					"uid": 760,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5569,7 +5569,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 170,
+					"uid": 761,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5605,7 +5605,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 171,
+					"uid": 762,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5641,7 +5641,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 172,
+					"uid": 763,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5677,7 +5677,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 173,
+					"uid": 764,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5713,7 +5713,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 174,
+					"uid": 765,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5749,7 +5749,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 175,
+					"uid": 766,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5785,7 +5785,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 176,
+					"uid": 767,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5821,7 +5821,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 177,
+					"uid": 768,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5857,7 +5857,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 178,
+					"uid": 769,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5893,7 +5893,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 180,
+					"uid": 770,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5929,7 +5929,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 181,
+					"uid": 771,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5965,7 +5965,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 182,
+					"uid": 772,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6001,7 +6001,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 183,
+					"uid": 773,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6037,7 +6037,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 184,
+					"uid": 774,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6073,7 +6073,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 185,
+					"uid": 775,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6109,7 +6109,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 186,
+					"uid": 776,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6121,9 +6121,9 @@
 					},
 					"world": {
 						"x": 804,
-						"y": 429,
+						"y": 469,
 						"width": 5.519178208102792,
-						"height": 173.95327047329067,
+						"height": 253.95327047329067,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
@@ -6145,7 +6145,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 187,
+					"uid": 777,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6181,7 +6181,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 188,
+					"uid": 778,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6217,7 +6217,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 189,
+					"uid": 779,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6253,7 +6253,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 190,
+					"uid": 780,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6289,7 +6289,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 191,
+					"uid": 781,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6325,7 +6325,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 192,
+					"uid": 782,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6361,7 +6361,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 193,
+					"uid": 783,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6397,7 +6397,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 194,
+					"uid": 784,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6433,7 +6433,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 195,
+					"uid": 785,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6469,7 +6469,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 196,
+					"uid": 786,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6497,93 +6497,6 @@
 					}
 				},
 				{
-					"type": "Antivirus",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 2,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 43,
-						"y": 877,
-						"width": 48.54843289996417,
-						"height": 48.54843289996417,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
-					"type": "Contraseña",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 41,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 832,
-						"y": 825,
-						"width": 43.14941560134846,
-						"height": 43.14941560134846,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
-					"type": "Actualizacion",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 42,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 719,
-						"y": 317,
-						"width": 42.84907507712846,
-						"height": 42.84907507712846,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
 					"type": "PC",
 					"properties": {
 						"initially-visible": true,
@@ -6592,7 +6505,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 66,
+					"uid": 789,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -6621,7 +6534,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 69,
+					"uid": 790,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -6650,7 +6563,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 115,
+					"uid": 791,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6686,7 +6599,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 197,
+					"uid": 792,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -6707,64 +6620,6 @@
 					}
 				},
 				{
-					"type": "VPN",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 85,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 438,
-						"y": 261,
-						"width": 46.04589737098534,
-						"height": 46.04589737098534,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
-					"type": "Phising",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 88,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 962,
-						"y": 200,
-						"width": 54.33055936259589,
-						"height": 54.33055936259589,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				},
-				{
 					"type": "ColisionDetector",
 					"properties": {
 						"initially-visible": true,
@@ -6773,7 +6628,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 83,
+					"uid": 794,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6799,38 +6654,9 @@
 						"angle": 0,
 						"zElevation": 0
 					}
-				},
-				{
-					"type": "Virus",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 409,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 323,
-						"y": 708,
-						"width": 48.52567235637553,
-						"height": 48.52567235637553,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
 				}
 			],
-			"sid": 968083059631486,
+			"sid": 663503353638213,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -6859,7 +6685,7 @@
 			"global": false
 		}
 	],
-	"sid": 209395108523291,
+	"sid": 912048582975138,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,

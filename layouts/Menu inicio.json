@@ -75,7 +75,7 @@
 				{
 					"type": "Titulos",
 					"properties": {
-						"text": "VIAJE HACIA LA RED ",
+						"text": "VIAJE HACIA EL ",
 						"enable-bbcode": true,
 						"font": "monospace",
 						"size": 40,
@@ -98,9 +98,9 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 150.21433173795066,
-						"y": 44.79833980362545,
-						"width": 572.6130728775356,
+						"x": 18,
+						"y": 25,
+						"width": 413.17438016528854,
 						"height": 65,
 						"originX": 0,
 						"originY": 0,
@@ -115,10 +115,52 @@
 					}
 				},
 				{
-					"type": "Botón",
+					"type": "Titulos",
+					"properties": {
+						"text": "CENTRO DE LA RED",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 40,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							0.01568627450980392,
+							1,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"initially-visible": true,
+						"origin": "top-left"
+					},
+					"uid": 221,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 345,
+						"y": 97,
+						"width": 474.17438016528854,
+						"height": 65,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "BotonLegitimo",
 					"properties": {
 						"type": "button",
-						"text": "CONECTAR",
+						"text": "J U G A R ",
 						"tooltip": "",
 						"initially-visible": true,
 						"enabled": true,
@@ -127,14 +169,14 @@
 						"id": "",
 						"class": ""
 					},
-					"uid": 221,
+					"uid": 1194,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 337.2917020526887,
-						"y": 168.0140454688526,
-						"width": 114.8249436513899,
-						"height": 42.031555221637916,
+						"x": 264,
+						"y": 354,
+						"width": 291.5894621692892,
+						"height": 64.80646798939858,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -143,6 +185,132 @@
 							1,
 							1
 						]
+					}
+				},
+				{
+					"type": "Titulos",
+					"properties": {
+						"text": "Made by YMBUR",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 10,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							0.01568627450980392,
+							1,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"initially-visible": true,
+						"origin": "top-left"
+					},
+					"uid": 1196,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 4,
+						"y": 460,
+						"width": 99.17438016528854,
+						"height": 17,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Titulos",
+					"properties": {
+						"text": "Un paquete de datos necesita llegar a su destino y para ello debe conectarse a una red pública.",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 14,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							0.01568627450980392,
+							1,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"initially-visible": true,
+						"origin": "top-left"
+					},
+					"uid": 1195,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 172,
+						"y": 212,
+						"width": 495,
+						"height": 53,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Titulos",
+					"properties": {
+						"text": "Recoge artefactos y aprende sobre ciberseguridad",
+						"enable-bbcode": true,
+						"font": "monospace",
+						"size": 17,
+						"line-height": 0,
+						"bold": true,
+						"italic": false,
+						"color": [
+							0.01568627450980392,
+							1,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"initially-visible": true,
+						"origin": "top-left"
+					},
+					"uid": 1197,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 111,
+						"y": 304,
+						"width": 605,
+						"height": 53,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
 					}
 				}
 			],

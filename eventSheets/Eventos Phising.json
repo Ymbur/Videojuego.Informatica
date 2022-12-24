@@ -1,5 +1,123 @@
 {
 	"name": "Eventos Phising",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 980381018274961
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Cerrar",
+					"sid": 666842513917543,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 833670629856281
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 241145268469523,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Cerrar"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 967795273516574,
+					"parameters": {
+						"audio-file": "Pasos raton",
+						"loop": "not-looping",
+						"volume": "0",
+						"stereo-pan": "0",
+						"tag-optional": "\"\""
+					}
+				},
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 907217065799992,
+					"parameters": {
+						"layout": "Laberinto final"
+					}
+				}
+			],
+			"sid": 815651518918094
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "BotonLegitimo",
+					"sid": 995822225717037
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 973403700934097,
+					"parameters": {
+						"layout": "Laberinto"
+					}
+				}
+			],
+			"sid": 989769794604023
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "BotonPhising",
+					"sid": 683362321267387
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Cerrar",
+					"sid": 600134076663548,
+					"parameters": {
+						"visibility": "visible"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "BotonLegitimo",
+					"sid": 121732980881807,
+					"parameters": {
+						"mode": "disabled"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "BotonPhising",
+					"sid": 450804640666613,
+					"parameters": {
+						"mode": "disabled"
+					}
+				}
+			],
+			"sid": 361316205984512
+		}
+	],
 	"sid": 627086001409591
 }

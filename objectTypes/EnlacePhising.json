@@ -1,7 +1,7 @@
 {
-	"name": "Cerrar",
+	"name": "EnlacePhising",
 	"plugin-id": "Sprite",
-	"sid": 520716260236533,
+	"sid": 645715998331090,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,39 +11,39 @@
 			{
 				"frames": [
 					{
-						"width": 512,
-						"height": 512,
+						"width": 522,
+						"height": 34,
 						"originX": 0.5,
 						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 8733269,
+						"imageSpriteId": 3047947,
 						"collisionPoly": {
 							"points": [
-								0.0234375,
-								0.03515625,
-								0.51171875,
-								0.1875,
-								0.9765625,
-								0.02734375,
-								0.818359375,
-								0.53515625,
-								0.96875,
-								0.96875,
+								0,
+								0,
 								0.5,
-								0.80859375,
-								0.02734375,
-								0.96875,
-								0.12109375,
-								0.5078125
+								0,
+								0.9980842911877394,
+								0,
+								0.9980842911877394,
+								0.5,
+								0.9980842911877394,
+								0.9705882352941176,
+								0.5,
+								0.9705882352941176,
+								0,
+								0.9705882352941176,
+								0,
+								0.5
 							]
 						},
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 408691025655405,
+				"sid": 918591039089296,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

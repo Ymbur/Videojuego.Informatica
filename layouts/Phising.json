@@ -98,9 +98,9 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 361,
-						"y": 111,
-						"width": 402.74502076263013,
+						"x": 244,
+						"y": 43,
+						"width": 381.74502076263013,
 						"height": 65,
 						"originX": 0,
 						"originY": 0,
@@ -140,8 +140,8 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 484,
-						"y": 41,
+						"x": 387,
+						"y": 12,
 						"width": 103.21801789495225,
 						"height": 32.54320060105181,
 						"originX": 0,
@@ -169,8 +169,8 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 813,
-						"y": 58,
+						"x": 810,
+						"y": 40,
 						"width": 33.11412665501273,
 						"height": 33.11412665501273,
 						"originX": 0.5,
@@ -183,6 +183,126 @@
 						],
 						"angle": 0,
 						"zElevation": 0
+					}
+				},
+				{
+					"type": "EnlacePhising",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 1184,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 436.75948590009006,
+						"y": 405.2773475951794,
+						"width": 398.85028473079205,
+						"height": 25.98391771613178,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "CapturaPhising",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 1183,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 436.9383019898762,
+						"y": 258.79368747148175,
+						"width": 399.1472081746875,
+						"height": 277.7198948444362,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "BotonPhising",
+					"properties": {
+						"type": "button",
+						"text": "PHISING",
+						"tooltip": "",
+						"initially-visible": true,
+						"enabled": true,
+						"auto-font-size": true,
+						"checked": false,
+						"id": "",
+						"class": ""
+					},
+					"uid": 1185,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 331.96659483581277,
+						"y": 433.13684906219544,
+						"width": 85.37245634917986,
+						"height": 33.80646798939847,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						]
+					}
+				},
+				{
+					"type": "BotonLegitimo",
+					"properties": {
+						"type": "button",
+						"text": "LEGITIMO",
+						"tooltip": "",
+						"initially-visible": true,
+						"enabled": true,
+						"auto-font-size": true,
+						"checked": false,
+						"id": "",
+						"class": ""
+					},
+					"uid": 1186,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 461.0897265795935,
+						"y": 433.1368831437186,
+						"width": 83.58946216928922,
+						"height": 33.806467989398584,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						]
 					}
 				}
 			],

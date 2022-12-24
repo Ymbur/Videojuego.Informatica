@@ -1,5 +1,5 @@
 {
-	"name": "Eventos VPN",
+	"name": "Eventos virus",
 	"events": [
 		{
 			"eventType": "block",
@@ -7,7 +7,7 @@
 				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
-					"sid": 124844861203364,
+					"sid": 506931122439535,
 					"parameters": {
 						"mouse-button": "left",
 						"click-type": "clicked",
@@ -19,9 +19,9 @@
 				{
 					"id": "play",
 					"objectClass": "Audio",
-					"sid": 893982238455375,
+					"sid": 692056956357982,
 					"parameters": {
-						"audio-file": "Pasos raton buenos",
+						"audio-file": "Pasos raton",
 						"loop": "not-looping",
 						"volume": "0",
 						"stereo-pan": "0",
@@ -31,14 +31,14 @@
 				{
 					"id": "go-to-layout",
 					"objectClass": "System",
-					"sid": 608299081842754,
+					"sid": 760112342606714,
 					"parameters": {
-						"layout": "LaberintoVPN"
+						"layout": "Laberinto"
 					}
 				}
 			],
-			"sid": 903108250376742
+			"sid": 377098511850957
 		}
 	],
-	"sid": 206549460786026
+	"sid": 169795986513799
 }
